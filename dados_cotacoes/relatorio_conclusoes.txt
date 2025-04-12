@@ -1,0 +1,7 @@
+Relatório de Análise das Cotações das Moedas (últimos 30 dias)
+============================================================
+
+- A moeda Dólar Americano (USD) teve uma valorização de 1.63% no período de 12/03/2025 a 08/04/2025.
+- A moeda Euro (EUR) teve uma valorização de 1.94% no período de 12/03/2025 a 08/04/2025.
+- A moeda Libra Esterlina (GBP) teve uma valorização de 0.22% no período de 12/03/2025 a 08/04/2025.
+- A moeda Iene Japonês (JPY) teve uma valorização de 3.09% no período de 12/03/2025 a 08/04/2025.
